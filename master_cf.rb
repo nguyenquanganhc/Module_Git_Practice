@@ -1,3 +1,5 @@
-puts "Cause conflict in branch master"
+puts "Cause conflict in branch master";
 puts "doing something";
-puts "is it ok?"
+puts "i don't know";
+str = gets.chomp.to_i;
+>>>>>>> master
